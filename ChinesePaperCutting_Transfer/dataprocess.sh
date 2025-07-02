@@ -1,0 +1,1 @@
+python data_preprocess.py --source_dir /home/ubuntu/axproject/S2WAT-main/jianzhi --target_dir /home/ubuntu/axproject/S2WAT-main/data

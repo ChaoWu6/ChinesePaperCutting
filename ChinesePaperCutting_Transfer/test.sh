@@ -1,0 +1,1 @@
+python3 test.py --input_dir ./input/Test --output_dir ./output --checkpoint_import_path ./checkpoint_390000_epoch.pkl
